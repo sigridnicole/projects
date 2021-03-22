@@ -40,7 +40,7 @@ Repositories:
 - [Front](https://github.com/sigridnicole/face-detection)
 - [Back](https://github.com/sigridnicole/face-detection-api)
 
-### Typescript Twitter Bot (Companion for FaceCounter App)
+### Typescript Twitter Bot (Companion for FaceCounter App) (2021)
 
 Tweets updates whenever a user detects faces using the FaceCounter App.
 
