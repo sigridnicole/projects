@@ -3,7 +3,7 @@
 ### The Captivate Hub (The Conversational Hub)
 
 The Conversational Hub is the flagship product of the company. It mainly integrates chatbots (IBM Watson) with channels (Whatsapp,
-Twitter, Messenger, Slack) and livechat clients (Click4Assistance, LiveEngage, MS Teams). More info (here)[https://manual.captivat.io/].
+Twitter, Messenger, Slack) and livechat clients (Click4Assistance, LiveEngage, MS Teams). More info [here](https://manual.captivat.io/).
 
 - Responsible as senior developer for creating, updating and maintaining features and microservices.
 
@@ -34,18 +34,18 @@ posted according to Twitter's rules.
 
 A full stack app made with NodeJS, React, Express and PostgreSQL, deployed in Heroku (2019)
 
-- (Frontend URL)[https://facecounter.herokuapp.com/]
+- [Frontend URL](https://facecounter.herokuapp.com/)
 
 Repositories:
-- (Front)[https://github.com/sigridnicole/face-detection]
-- (Back)[https://github.com/sigridnicole/face-detection-api]
+- [Front](https://github.com/sigridnicole/face-detection)
+- [Back](https://github.com/sigridnicole/face-detection-api)
 
 ### Typescript Twitter Bot (Companion for FaceCounter App)
 
 Tweets updates whenever a user detects faces using the FaceCounter App.
 
-- Twitter Account: (@face_counter)[https://twitter.com/face_counter]
-- (Repository)[https://github.com/sigridnicole/ts-twitter-bot]
+- Twitter Account: [@face_counter](https://twitter.com/face_counter)
+- [Repository](https://github.com/sigridnicole/ts-twitter-bot)
 
 
 
