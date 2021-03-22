@@ -34,18 +34,18 @@ posted according to Twitter's rules.
 
 A full stack app made with NodeJS, React, Express and PostgreSQL, deployed in Heroku (2019)
 
-- Frontend https://facecounter.herokuapp.com/ 
+- (Frontend URL)[https://facecounter.herokuapp.com/]
 
 Repositories:
-- Front https://github.com/sigridnicole/face-detection
-- Back https://github.com/sigridnicole/face-detection-api
+- (Front)[https://github.com/sigridnicole/face-detection]
+- (Back)[https://github.com/sigridnicole/face-detection-api]
 
 ### Typescript Twitter Bot (Companion for FaceCounter App)
 
 Tweets updates whenever a user detects faces using the FaceCounter App.
 
-Twitter Account: https://twitter.com/face_counter
-Repository: https://github.com/sigridnicole/ts-twitter-bot
+- Twitter Account: (@face_counter)[https://twitter.com/face_counter]
+- (Repository)[https://github.com/sigridnicole/ts-twitter-bot]
 
 
 
