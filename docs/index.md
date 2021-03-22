@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Work Experience (2019 - 2021)
 
-You can use the [editor on GitHub](https://github.com/sigridnicole/projects/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### The Captivate Hub (The Conversational Hub)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Conversational Hub is the flagship product of the company. It mainly integrates chatbots (IBM Watson) with channels (Whatsapp,
+Twitter, Messenger, Slack) and livechat clients (Click4Assistance, LiveEngage, MS Teams). More info (here)[https://manual.captivat.io/].
 
-### Markdown
+- Responsible as senior developer for creating, updating and maintaining features and microservices.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Microsoft Teams Livechat App
 
-# Header 1
-## Header 2
-### Header 3
+This app will be launched in MS Teams' public App Source/Store as the main livechat client for The Conversational Hub.
 
-- Bulleted
-- List
+- Responsible as team leader while taking part with the overall designing and development.
 
-1. Numbered
-2. List
+### Discourse - Slack Integration
 
-**Bold** and _Italic_ and `Code` text
+App that lets Slack members can receive notifications, post, reply, perform Discourse forum moderation from without leaving Slack workspace. Also featuring issue assignment and tracking.
 
-[Link](url) and ![Image](src)
-```
+- Solely responsible for the backend design and development.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Completed Minor Projects as an Individual Contributor
 
-### Jekyll Themes
+- The Conversational Hub Documentation - content and website.
+- MongoDB - MS SQL Data Migration - Scheduled cross database backup/migration app.
+- Tweets Scheduler - A microservice that makes sure tweets are
+posted according to Twitter's rules.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sigridnicole/projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Personal Projects
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### FaceCounter
+
+A full stack app made with NodeJS, React, Express and PostgreSQL, deployed in Heroku (2019)
+
+- Frontend https://facecounter.herokuapp.com/ 
+
+Repositories:
+- Front https://github.com/sigridnicole/face-detection
+- Back https://github.com/sigridnicole/face-detection-api
+
+### Typescript Twitter Bot (Companion for FaceCounter App)
+
+Tweets updates whenever a user detects faces using the FaceCounter App.
+
+Twitter Account: https://twitter.com/face_counter
+Repository: https://github.com/sigridnicole/ts-twitter-bot
+
+
+
+
