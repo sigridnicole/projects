@@ -1,4 +1,22 @@
-## Work Experience (2019 - 2021)
+## Work Experience (2019 - 2022)
+
+### Independent Contractor Projects
+Designed and developed multiple applications for a nationwide (PH) Digital Raffle Campaign Project for a corporate giant (NDA covered). Campaign has obtained millions of entries and hundreds of thousand of participants.
+
+#### (1) Campaign's central application for SMS Replier and Messenger Chatbot channels 
+- Responsible for the overall logic flow and database management.
+- APIS for SMS and Messenger Chatbot channels.
+- Backend APIs of the frontend dashboards and reports generation. 
+
+####  (2) SMS Replier for campaign participants. 
+- Application supported user registration, raffle entries redemption, entries inquiry, user opt out and other user requirements. 
+- Developed according to conversation flowcharts provided by the client.
+
+#### (3) Rewards Application and SMS Blast for Campaign Winners 
+- Main features:
+	- SMS Blast (thousands of SMS send out) for winners handled optimally.
+	- Rewards system either monetary rewards using payout channels or voucher codes.
+- Backend APIs of the frontend dashboards and reports generation. 
 
 ### The Captivate Hub (The Conversational Hub)
 
@@ -46,7 +64,3 @@ Tweets updates whenever a user detects faces using the FaceCounter App.
 
 - Twitter Account: [@face_counter](https://twitter.com/face_counter)
 - [Repository](https://github.com/sigridnicole/ts-twitter-bot)
-
-
-
-
