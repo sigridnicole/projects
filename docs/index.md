@@ -1,3 +1,5 @@
+#### Sigrid Nicole Ramos - Projects List
+
 ## Work Experience (2019 - 2022)
 
 ### Independent Contractor Projects
@@ -46,7 +48,7 @@ App that lets Slack members can receive notifications, post, reply, perform Disc
 posted according to Twitter's rules.
 
 
-## Personal Projects
+## Personal Projects (2018 - 2021)
 
 ### FaceCounter
 
@@ -64,3 +66,10 @@ Tweets updates whenever a user detects faces using the FaceCounter App.
 
 - Twitter Account: [@face_counter](https://twitter.com/face_counter)
 - [Repository](https://github.com/sigridnicole/ts-twitter-bot)
+
+
+## Work Experience (2017 - 2018)
+During this period, although not using JavaScript as a language, I worked as backend developer mainly for Banking and Financial Applications. Here's is where I learned that I do liked working for backend applications and database managements even though the screen was boring as hell. Which lead me into looking for another technology or language that would give some color to my daily developer life, then I finally tried web development and the rest is history. :)
+
+## Contact
+sigridncl@gmail.com
