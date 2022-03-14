@@ -1,4 +1,4 @@
-#### Sigrid Nicole Ramos - Projects List
+# Sigrid Nicole Ramos - Projects List
 
 ## Work Experience (2019 - 2022)
 
