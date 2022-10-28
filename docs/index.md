@@ -1,9 +1,19 @@
-# Sigrid Nicole Ramos - Projects List
+# Contract Projects
 
-## Work Experience (2019 - 2022)
+## AWS Lex Bot Creation and Integration (2022)
 
-### Independent Contractor Projects
+AWS Lex Bot development using AWS Console with Lambda Function for chatbot flow customization. AWS Lex Bot Integration to custom backend server using AWS- SDK.
+***Stack: NodeJS, ExpressJS, Redis, MongoDB, AWS Lex and Lambda, Serverless Framework***
+
+## Websockets User Chat Channel Integration (2022)
+
+Developed a custom user chat channel integration to an existing project with AWS API Gateway WebSocket as entry point to allow integration from any frontend language.
+***Stack: NodeJS, ExpressJS, MongoDB, Redis, Websockets, AWS Lambda and API Gateway, Serverless Framework***
+
+## (PH) Digital Raffle Campaign Project (2021)
+
 Designed and developed multiple applications for a nationwide (PH) Digital Raffle Campaign Project for a corporate giant (NDA covered). Campaign has obtained millions of entries and hundreds of thousand of participants.
+***Stack: NodeJS, ExpressJS, MongoDB***
 
 #### (1) Campaign's central application for SMS Replier and Messenger Chatbot channels 
 - Responsible for the overall logic flow and database management.
@@ -19,6 +29,10 @@ Designed and developed multiple applications for a nationwide (PH) Digital Raffl
 	- SMS Blast (thousands of SMS send out) for winners handled optimally.
 	- Rewards system either monetary rewards using payout channels or voucher codes.
 - Backend APIs of the frontend dashboards and reports generation. 
+
+# Work Experience
+Projects contributed in as part of full time employment.
+***Stack: NodeJS, ExpressJS, MongoDB, Redis***
 
 ### The Captivate Hub (The Conversational Hub)
 
@@ -48,9 +62,12 @@ App that lets Slack members can receive notifications, post, reply, perform Disc
 posted according to Twitter's rules.
 
 
-## Personal Projects (2018 - 2021)
+###  Work Experience (2017 - 2018)
+During this period, although not using JavaScript as a language, I worked as a backend developer mainly for Banking and Financial Applications. Here's where I learned that I do like working on backend applications and database management, even though the screen was boring as hell. Which led me into looking for another technology or language that would give some color to my daily developer life, then I finally tried web development and the rest is history. :)
 
-### FaceCounter
+# Personal Projects (2018 - 2021)
+
+## FaceCounter
 
 A full stack app made with NodeJS, React, Express and PostgreSQL, deployed in Heroku (2019)
 
@@ -60,7 +77,7 @@ Repositories:
 - [Front](https://github.com/sigridnicole/face-detection)
 - [Back](https://github.com/sigridnicole/face-detection-api)
 
-### Typescript Twitter Bot (Companion for FaceCounter App) (2021)
+## Typescript Twitter Bot (Companion for FaceCounter App) (2021)
 
 Tweets updates whenever a user detects faces using the FaceCounter App.
 
@@ -68,9 +85,5 @@ Tweets updates whenever a user detects faces using the FaceCounter App.
 - [Repository](https://github.com/sigridnicole/ts-twitter-bot)
 
 
-## Work Experience (2017 - 2018)
-During this period, although not using JavaScript as a language, I worked as a backend developer mainly for Banking and Financial Applications. Here's where I learned that I do like working on backend applications and database management, even though the screen was boring as hell. Which led me into looking for another technology or language that would give some color to my daily developer life, then I finally tried web development and the rest is history. :)
-
-
 ## Contact
-sigridncl@gmail.com
+sigridnicoler@gmail.com
